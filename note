@@ -1,0 +1,1 @@
+python applications/generate_samples.py --network ../../pretrained/pix2pix3D/ --outdir <output_dir> --random_seed <random_seeds list, e.g. 0 1> --cfg <configs, e.g., seg2cat, seg2face, edge2car> --input_id <sample_id in dataset>
